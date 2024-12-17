@@ -1,0 +1,25 @@
+{
+  "food": [
+    {
+      "id": "6c14",
+      "price": "299",
+      "image": "https://media.istockphoto.com/id/1442417585/photo/person-getting-a-piece-of-cheesy-pepperoni-pizza.jpg?s=612x612&w=0&k=20&c=k60TjxKIOIxJpd4F4yLMVjsniB4W1BpEV4Mi_nb4uJU=",
+      "catagorey": "pizza",
+      "qty": 7
+    },
+    {
+      "id": "3563",
+      "price": "399",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ4MV3Mc9zbB40-mkHljlDq72CAZ68iWKuGw&s",
+      "catagorey": "pasta",
+      "qty": 4
+    },
+    {
+      "id": "21a4",
+      "price": "199",
+      "image": "https://media.istockphoto.com/id/510482834/photo/sandwich-bread-tomato-lettuce-and-yellow-cheese.jpg?s=612x612&w=0&k=20&c=Q69t_vK73KXddedlvN4RmFcPL34mCwEqprJvbDTyOWo=",
+      "catagorey": "sandwich",
+      "qty": 1
+    }
+  ]
+}
